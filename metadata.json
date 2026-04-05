@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Hydro Sphere: MEV AI Agent v 1",
+  "description": "An AI-agent procedural NFT on TON \u0026 Monad. Earn Hydro tokens, scan for MEV opportunities, and complete quests.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
